@@ -8,4 +8,4 @@ Feel free to contact me via [Email](mailto:contact@dombinks.dev) or [LinkedIn](h
 
 ![](https://github-readme-stats.vercel.app/api?username=dombinks&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dombinks&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dombinks&layout=donut&theme=radical)
